@@ -6,3 +6,7 @@ This is a code example
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+This a checklist example
+- [x] One
+- [x] Two
+- [ ] Three
